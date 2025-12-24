@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Rockin' Around The Christmas Tree",
+  "base_artist": "Brenda Lee",
+  "createdAt": "2025-12-24T17:17:02.187827Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Miley Cyrus",
+      "has_synced": false,
+      "path": "select/01_Rockin'_Around_The_Christmas_Tree_Miley_Cyrus.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/02_Rockin'_Around_The_Christmas_Tree_Brenda_Lee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Kalimba",
+      "has_synced": false,
+      "path": "select/03_Rockin'_Around_The_Christmas_Tree_Kalimba.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rockin Around the Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": false,
+      "path": "select/04_Rockin_Around_the_Christmas_Tree_Brenda_Lee.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/05_Rockin'_Around_The_Christmas_Tree_Brenda_Lee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/06_Rockin'_Around_the_Christmas_Tree_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Hanson",
+      "has_synced": true,
+      "path": "select/07_Rockin'_Around_The_Christmas_Tree_Hanson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Keahiwai",
+      "has_synced": false,
+      "path": "select/08_Rockin'_Around_the_Christmas_Tree_Keahiwai.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rockin' Around the Christmas Tree",
+      "artist": "Jets",
+      "has_synced": false,
+      "path": "select/09_Rockin'_Around_the_Christmas_Tree_Jets.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rockin’ Around the Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/10_Rockin’_Around_the_Christmas_Tree_Brenda_Lee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Eddie Rabbitt",
+      "has_synced": false,
+      "path": "select/11_Rockin'_Around_The_Christmas_Tree_Eddie_Rabbitt.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/12_Rockin'_Around_The_Christmas_Tree_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "S",
+      "has_synced": true,
+      "path": "select/13_Rockin'_Around_The_Christmas_Tree_S.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Rockapella",
+      "has_synced": false,
+      "path": "select/14_Rockin'_Around_The_Christmas_Tree_Rockapella.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/15_Rockin'_Around_The_Christmas_Tree_Brenda_Lee.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Mel & Kim",
+      "has_synced": false,
+      "path": "select/16_Rockin'_Around_The_Christmas_Tree_Mel_&_Kim.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Tweenies",
+      "has_synced": true,
+      "path": "select/17_Rockin'_Around_The_Christmas_Tree_Tweenies.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": true,
+      "path": "select/18_Rockin'_Around_The_Christmas_Tree_Brenda_Lee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rockin' Around The Christmas Tree",
+      "artist": "Brenda Lee",
+      "has_synced": false,
+      "path": "select/pl_01_Rockin'_Around_The_Christmas_Tree_Brenda_Lee.txt"
+    }
+  ]
+}
